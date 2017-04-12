@@ -16,7 +16,7 @@ This website assumes no knowledge of writing a website or the any of the princip
 
 All you will need is a fairly modern browser (Chrome, Firefox, etc.) and a text editor.  You can use any editor you like, however you may find one of the following useful
 
-* Atom editor
-* Sublime Text
-* Emacs (Spacemacs)
- 
+* [Atom editor](https://atom.io/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Emacs](https://www.gnu.org/software/emacs/) or [Spacemacs](http://spacemacs.org/)
+
