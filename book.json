@@ -56,7 +56,7 @@
     },
     "links": {
         "sidebar": {
-            "Spacemacs": "http://www.w3schools.com/",
+            "W3 Schools": "http://www.w3schools.com/",
             "Bootstrap": "http://getbootstrap.com/",
             "Salesforce LDS": "https://www.lightningdesignsystem.com/"
         }
